@@ -9,6 +9,7 @@ return {
 --example                 = {fontON,    backON,    fontOFF,   backOFF},
 air                       = {0x000000,  0xFFFFFF,  0x000000,  0xCDCDCD},
 argon                     = {0xFFFFFF,  0x9300B1,  0xFFFFFF,  0x69007D},
+astralsorceryliquidstarlight = {0x0017ff,  0x000000,  0xFFFFFF,  0xFF0000},
 bioethanol                = {0x000000,  0xFC7600,  0x000000,  0xCA5E00},
 biomass                   = {0x000000,  0x64852A,  0xFFFFFF,  0x3D521A},
 chlorine                  = {0xFFFFFF,  0x2E8C8C,  0xFFFFFF,  0x1E5A5A},
